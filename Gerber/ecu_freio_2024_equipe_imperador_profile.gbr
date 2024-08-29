@@ -1,0 +1,15 @@
+%FSLAX23Y23*%
+%MOIN*%
+%SFA1B1*%
+
+%IPPOS*%
+%ADD45C,0.001000*%
+%LNecu_freio_2024_equipe_imperador_profile-1*%
+%LPD*%
+G54D45*
+X2680Y2065D02*
+X5090D01*
+Y4775*
+X2680*
+Y2065*
+M02*
